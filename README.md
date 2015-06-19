@@ -1,28 +1,9 @@
 dropbox
 =======
 
-Upload files to [UNL's Dropbox](http://is.unl.edu/dropbox/) from the commandline.
+~~Upload files to [UNL's Dropbox](http://is.unl.edu/dropbox/) from the commandline.~~
 
-## Requirements:
-
- - A modern ruby (>= 1.8.7)
- - The `nokogiri` and `rest-client` rubygems.  You can install them by running `gem install nokogiri rest-client` at the command prompt or terminal.
-
-## Installation:
-Just put it in your path somewhere and make sure its executable.
-
-## Usage:
-Let's say you wanted to upload a file called `touchdown.png`, you'd run the script like this:
-
-    dropbox touchdown.png
-
-## Contributing to dropbox
-
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
-* Fork the project
-* Start a feature/bugfix branch
-* Commit and push until you are happy with your contribution
-* Send me a pull request
+[UNL's Dropbox](http://is.unl.edu/dropbox/) has been decommissioned.  Students, faculty, and staff should instead consider using [Box](http://box.unl.edu/) or [Filesender](http://its.unl.edu/filesender) instead.
 
 ## License (MIT)
 
